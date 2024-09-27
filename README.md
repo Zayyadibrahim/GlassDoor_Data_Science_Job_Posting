@@ -7,4 +7,4 @@ This repository contains a GlassDoor Data Science job posting dataset which was 
 Program used was Microsoft Excel
 
 ##License 
-Dataset was gotten from Kaggle [here]<https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv>
+Dataset was gotten from Kaggle [here](https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv)
